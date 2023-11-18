@@ -3,8 +3,19 @@
     "main"
   ],
   "plugins": [
-    "@semantic-release/commit-analyzer",
-    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/commit-analyzer",
+      {
+        "config": "@insurgent/conventional-changelog-preset",
+        "releaseRules": "@insurgent/conventional-changelog-preset/release-rules"
+      }
+    ],
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        "config": "@insurgent/conventional-changelog-preset"
+      }
+    ],
     "@semantic-release/changelog",
     "semantic-release-hex",
     [
