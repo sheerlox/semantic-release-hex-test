@@ -1,21 +1,9 @@
 # SemanticReleaseHexTest
 
-**TODO: Add description**
+This is a test project to showcase version management of an Elixir project with [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [`semantic-release`](https://github.com/semantic-release/semantic-release/) and [`semantic-release-hex`](https://github.com/talent-ideal/semantic-release-hex).
 
-## Installation
+### Releasing from the CLI
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `semantic_release_hex_test` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:semantic_release_hex_test, "~> 0.1.0"}
-  ]
-end
+```shell
+GH_TOKEN=$(gh auth token) npm run release -- --no-ci
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/semantic_release_hex_test>.
-
