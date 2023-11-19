@@ -1,3 +1,21 @@
+## [1.0.2](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.1...v1.0.2) (2023-11-19)
+
+
+### 📚 Documentation
+
+* **readme:** improve "setting up" & add "learn more" ([5c783e5](https://github.com/sheerlox/semantic-release-hex-demo/commit/5c783e5c3cea0b8e4728e1be8fab816fe71d3a2d))
+
+
+### ⚙️ Continuous Integrations
+
+* **action:** use node version from .tool-versions ([ac450ba](https://github.com/sheerlox/semantic-release-hex-demo/commit/ac450ba838d02a5c9fb58b33651dfeb32469e703))
+
+
+### ♻️ Chores
+
+* fix generated CHANGELOG ([97d815c](https://github.com/sheerlox/semantic-release-hex-demo/commit/97d815ca47de574b1317d17edbef57451402b40a))
+* rename repository to `semantic-release-hex-demo` pt.2 ([5645997](https://github.com/sheerlox/semantic-release-hex-demo/commit/56459971fbd4141838ec2dcf39efa44122b5fa5d))
+
 ## [1.0.1](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.0...v1.0.1) (2023-11-19)
 
 ### 📚 Documentation
