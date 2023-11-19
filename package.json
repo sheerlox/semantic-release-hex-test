@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-hex-test",
+  "name": "semantic-release-hex-demo",
   "private": true,
   "scripts": {
     "release": "semantic-release"
