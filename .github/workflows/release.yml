@@ -29,7 +29,7 @@ jobs:
       - name: Use Node.js LTS
         uses: actions/setup-node@8f152de45cc393bb48ce5d89d36b731f54556e65 # v4
         with:
-          node-version: "lts/*"
+          node-version-file: ".tool-versions"
 
       - name: Install packages
         run: npm ci
