@@ -1,4 +1,4 @@
-defmodule SemanticReleaseHexTest.MixProject do
+defmodule SemanticReleaseHexDemo.MixProject do
   use Mix.Project
 
   def project do

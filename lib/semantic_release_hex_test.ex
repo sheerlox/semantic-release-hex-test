@@ -1,6 +1,6 @@
-defmodule SemanticReleaseHexTest do
+defmodule SemanticReleaseHexDemo do
   @moduledoc """
-  Documentation for `SemanticReleaseHexTest`.
+  Documentation for `SemanticReleaseHexDemo`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule SemanticReleaseHexTest do
 
   ## Examples
 
-      iex> SemanticReleaseHexTest.hello()
+      iex> SemanticReleaseHexDemo.hello()
       :world
 
   """

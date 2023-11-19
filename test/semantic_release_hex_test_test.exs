@@ -1,8 +1,8 @@
-defmodule SemanticReleaseHexTestTest do
+defmodule SemanticReleaseHexDemoTest do
   use ExUnit.Case
-  doctest SemanticReleaseHexTest
+  doctest SemanticReleaseHexDemo
 
   test "greets the world" do
-    assert SemanticReleaseHexTest.hello() == :world
+    assert SemanticReleaseHexDemo.hello() == :world
   end
 end
