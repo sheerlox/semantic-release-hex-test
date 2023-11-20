@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.4...v1.0.5) (2023-11-20)
+
+
+### 📚 Documentation
+
+* **readme:** add link to Elixir Forum thread ([1670747](https://github.com/sheerlox/semantic-release-hex-demo/commit/1670747e3afead412a7602941a5431b62d28000f))
+
 ## [1.0.4](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.3...v1.0.4) (2023-11-20)
 
 
