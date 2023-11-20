@@ -4,7 +4,7 @@ This is a demo project to showcase version management of an Elixir project with 
 
 Feel free to explore its content, commit history, or even fork it to test things out, as it's what it's meant for.
 
-If you have any question or feedback, feel free to reply on the Elixir Forum thread or create a new [GitHub Discussion](https://github.com/sheerlox/semantic-release-hex-demo/discussions), I'll be happy to read and reply to you :heart:
+If you have any question or feedback, feel free to reply on the [Elixir Forum thread](https://elixirforum.com/t/semanticreleasehex-fully-automated-version-management-and-release-processes/59837) or create a new [GitHub Discussion](https://github.com/sheerlox/semantic-release-hex-demo/discussions), I'll be happy to read and reply to you :heart:
 
 ## Learn more
 
