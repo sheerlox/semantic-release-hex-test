@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.3...v1.0.4) (2023-11-20)
+
+
+### 📚 Documentation
+
+* **readme:** move detailed setup instructions to main repo ([4f08b2b](https://github.com/sheerlox/semantic-release-hex-demo/commit/4f08b2beb74621cd137803e6ea4dfec456a39ca3))
+
 ## [1.0.3](https://github.com/sheerlox/semantic-release-hex-demo/compare/v1.0.2...v1.0.3) (2023-11-19)
 
 
