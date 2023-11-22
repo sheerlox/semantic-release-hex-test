@@ -14,3 +14,13 @@ If you have any question or feedback, feel free to reply on the [Elixir Forum th
 ## Try it out in your project
 
 See [**Setting up an existing Elixir project**](https://github.com/talent-ideal/semantic-release-hex/blob/main/docs/SETTING_UP.md) on the main repo.
+
+## Example auto-updating "Installation" section
+
+```elixir
+def deps do
+  [{:semantic_release_hex_demo, "~> 1.0.5"}]
+end
+```
+
+_Note: this also works when pointing to a git tag._
