@@ -36,6 +36,7 @@
         {
           "assets": [
             "mix.exs",
+            "README.md",
             "CHANGELOG.md"
           ],
           "message": "chore(release): v${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
