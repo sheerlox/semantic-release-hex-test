@@ -19,7 +19,7 @@ See [**Setting up an existing Elixir project**](https://github.com/talent-ideal/
 
 ```elixir
 def deps do
-  [{:semantic_release_hex_demo, "~> 1.0.5"}]
+  [{:semantic_release_hex_demo, "~> 1.0.6"}]
 end
 ```
 
